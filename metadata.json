@@ -1,0 +1,6 @@
+{
+  "name": "Univers du Cinéma",
+  "description": "Portail de référence des actualités cinématographiques, bandes-annonces, sorties en salles et box-office hebdomadaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
